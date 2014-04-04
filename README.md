@@ -8,7 +8,10 @@ Mandarincoin is a coin for china, the code of Mandarincoin is based on litecoin 
 Coin Specifications
 
 10 minute block targets
+
 3 billion total coins
+
 8 blocks to retarget difficulty
+
 3500 coins per block
 
